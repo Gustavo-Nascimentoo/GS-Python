@@ -79,4 +79,4 @@ Seguindo as restrições do enunciado, pedimos e mantivemos o código dentro des
 
 **Limitações:** a IA não conseguiu abrir o código dos repositórios de referência (só os READMEs), então os nomes dos arquivos foram inspirados na estrutura deles e o restante foi guiado pelo enunciado. Os limites de temperatura são didáticos e não vêm de uma fonte oficial. O código gerado precisa ser entendido e testado pelo grupo antes da entrega.
 
-**Dificuldades:** os repositórios anteriores da equipe usavam bibliotecas externas que o enunciado desta atividade restringe, então foi preciso adaptar o estilo para usar apenas a biblioteca padrão. Também foi necessário manter o código simples o bastante para o grupo conseguir explicá-lo.
+**Dificuldades:** os repositórios anteriores da equipe usavam bibliotecas externas que o enunciado desta atividade restringe, então foi preciso adaptar o estilo para usar apenas a biblioteca padrão. Também foi necessário manter o código simples o bastante para o grupo conseguir ajusta-lo e explica-lo.
