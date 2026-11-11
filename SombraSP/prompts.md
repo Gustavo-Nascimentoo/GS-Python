@@ -7,6 +7,7 @@ Projeto: **SombraSP — Alerta de Calor em São Paulo** (Global Solution 2026.2 
 | Ferramenta | Finalidade |
 |---|---|
 | Claude (Anthropic) | Escolher o problema do tema (calor extremo), explicar o passo a passo do projeto, gerar a base inicial do código (menu, funções de validação, funções de regras de risco e funções de persistência em JSON), sugerir o nome do projeto, ajudar a preencher a Ficha do README e revisar a estrutura do repositório |
+| ChatGPT (OpenAI) | Revisar o código para ter uma segundo opnião de se tem alguma coisa faltando ou deixe de seguir alguma das regras |
 
 ## 2. Prompts utilizados
 
@@ -21,6 +22,12 @@ Finalidade: gerar a base do projeto
 > Arrume o README.md do meu projeto conforme as alterações que foram feitas.
 
 Finalidade: Correções do documento README.md
+
+**Prompt 3** (Revisão)
+
+> Faça uma revisão clara no código, verifique seguindo os parâmetros que se pedem no enunciado da atividade e me mande o que devo alterar 
+
+Finalidade: Correções do finais do projeto
 
 ## 3. Funcionalidades desenvolvidas, sugeridas ou modificadas com ajuda da IA
 
