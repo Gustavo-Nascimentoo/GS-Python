@@ -129,7 +129,3 @@ Seguindo o enunciado da atividade:
     ]
 }
 ```
-
-## Uso de IA
-
-O uso de ferramentas de IA está documentado no arquivo [`prompts.md`](prompts.md).
