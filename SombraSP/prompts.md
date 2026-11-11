@@ -10,17 +10,17 @@ Projeto: **SombraSP — Alerta de Calor em São Paulo** (Global Solution 2026.2 
 
 ## 2. Prompts utilizados
 
-**Prompt 1**
-
-> Você consegue ler e ver códigos de um repositório GitHub?
-
-Finalidade: entender se a ferramenta conseguia consultar os repositórios de referência da equipe.
-
-**Prompt 2** (resumo do pedido, junto com prints do enunciado da atividade)
+**Prompt 1** (resumo do pedido, junto com prints do enunciado da atividade)
 
 > Gere uma estrutara básica para o meu projeto seguindo o que as prints falam: aplicação em Python com menu, validações, try/except, if/elif/else e match/case, while e for, funções com parâmetros e retorno, listas, tuplas e dicionários e persistência em JSON. Tema: menu que registra temperatura e pontos de apoio em JSON e classifica o risco (normal, atenção, perigo).
 
 Finalidade: gerar a base do projeto
+
+**Prompt 2** (Correções)
+
+> Arrume o README.md do meu projeto conforme as alterações que foram feitas.
+
+Finalidade: Correções do documento README.md
 
 ## 3. Funcionalidades desenvolvidas, sugeridas ou modificadas com ajuda da IA
 
@@ -57,7 +57,6 @@ Seguindo as restrições do enunciado, pedimos e mantivemos o código dentro des
 - Remoção de registro de temperatura e de ponto de apoio, com o `dados.json` atualizado.
 - Pergunta "Deseja mais alguma coisa?" após cada opção, encerrando o programa quando a resposta é não.
 - Arquivo JSON ausente ou corrompido: o programa abre com dados vazios, sem quebrar.
-- Análise do código: só usa `json` e `datetime` (além dos arquivos do próprio projeto) e nenhum recurso fora do enunciado (sem classes, `lambda` ou compreensões de lista).
 
 **Conferência manual do grupo** (marcar conforme cada integrante testar):
 
