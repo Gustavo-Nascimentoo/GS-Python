@@ -27,7 +27,7 @@ Finalidade: Correções do documento README.md
 
 > Faça uma revisão clara no código, verifique seguindo os parâmetros que se pedem no enunciado da atividade e me mande o que devo alterar 
 
-Finalidade: Correções do finais do projeto
+Finalidade: Correções finais do projeto
 
 ## 3. Funcionalidades desenvolvidas, sugeridas ou modificadas com ajuda da IA
 
