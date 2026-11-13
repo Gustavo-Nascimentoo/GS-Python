@@ -10,7 +10,6 @@
 | **Problema, em uma frase** | Em dias de calor extremo, quem fica na rua não sabe se o calor já está perigoso nem onde encontrar sombra e água por perto |
 | **Como funciona** | O usuário registra a temperatura de um bairro; o programa classifica o risco (normal, atenção ou perigo) conforme o grupo observado, dá uma orientação e mostra os pontos de apoio (sombra/hidratação) cadastrados no bairro. Tudo é salvo em JSON |
 | **O que cada parte faz** | **Python (Lógica):** menu que registra temperatura e pontos de apoio em JSON e classifica o risco. **Demais partes do projeto:** _(completar com as outras disciplinas da equipe)_ |
-| **Link do repositório** | _(colar aqui o link do repositório no GitHub)_ |
 | **Indicador de impacto** | Quantidade de registros em nível "perigo" e de pontos de apoio cadastrados por bairro (opção 6 do menu) |
 | **ODS conectados** | ODS 3 (Saúde e Bem-Estar), ODS 11 (Cidades e Comunidades Sustentáveis) e ODS 13 (Ação contra a Mudança Global do Clima) |
 
